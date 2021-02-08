@@ -8,7 +8,7 @@
     <img alt='Twitter' src='https://img.shields.io/badge/Twitter-424B54.svg?&style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=000000' title='Twitter'>
   </a>
   <a href='https://steamcommunity.com/id/ummatias/' target="_blank">
-    <img alt='Steam' src='https://img.shields.io/badge/Steam-424B54.svg?&style=for-the-badge&logo=steam&logoColor=FFFFFF&color=000000' title='E-mail'>
+    <img alt='Steam' src='https://img.shields.io/badge/Steam-424B54.svg?&style=for-the-badge&logo=steam&logoColor=FFFFFF&color=000000' title='Steam'>
   </a>
   <a href='https://www.linkedin.com/in/ummatias/' target="_blank">
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-424B54.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&color=000000'  title='LinkedIn'>
