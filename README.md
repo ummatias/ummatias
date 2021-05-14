@@ -20,7 +20,7 @@
 - 💻 Python, JavaScript, Java
 - 👁 React, HTML, CSS
 - 🛠 Node, Flask
-- 💽 Mongo
+- 💽 Mongo, SQL
 - 🧠 Tensorflow
 
 ## Sobre Mim:
