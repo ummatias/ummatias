@@ -25,7 +25,7 @@
 
 ## Sobre Mim:
 
-Realmente respiro computação e a área que você me perguntar eu provavelmente já experimentei (se não, pode ter certeza que vou). Me interesso principalmente por ciência de dados e inteligência artificial, me aventurando também pelo desenvolvimento web e mobile. Recentemente tenho estudado sobre segurança como passa tempo através do HackTheBox e TryHackMe.
+Realmente respiro computação e a área que você me perguntar eu provavelmente já experimentei (se não, pode ter certeza que vou). Me interesso principalmente por ciência de dados e inteligência artificial, me aventurando também pelo desenvolvimento web e mobile. Recentemente tenho estudado sobre segurança como passatempo através do HackTheBox e TryHackMe.
 
 ![Matias GitHub stats](https://github-readme-stats.vercel.app/api?username=ummatias&show_icons=true&bg_color=0000&text_color=AAA&hide_border=true)
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ummatias&layout=compact&bg_color=0000&text_color=AAA&hide_border=true)
