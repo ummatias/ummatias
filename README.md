@@ -17,11 +17,11 @@
 </h3>
 
 ## Techs:
-- 💻 Python, JavaScript, Java
-- 👁 React, HTML, CSS
-- 🛠 Node, Flask
+- 💻 Python, JavaScript, TypeScript, Java
+- 👁 React, Next, HTML, CSS
+- 🛠 Node, Flask, FastAPI, SpringBot
 - 💽 Mongo, SQL
-- 🧠 Tensorflow
+- 🧠 Tensorflow, Scikit-Learn, Tranformers
 
 ## Sobre Mim:
 
