@@ -1,6 +1,6 @@
 <h1 align="center">Don’t Panic!</h1> 
 
-<p align="center">Olá, me chamo Mateus Matias e sou aluno do curso de Ciência da Computação na Universidade Federal de Campina Grande (UFCG).</p>
+<p align="center">Olá, me chamo Mateus Matias! Cientista da Computação pela Universidade Federal de Campina Grande (UFCG).</p>
  
 <h3 align="center">
 <div align='center'>
@@ -21,11 +21,11 @@
 - 👁 React, Next, HTML, CSS
 - 🛠 Node, Flask, FastAPI, SpringBot
 - 💽 Mongo, SQL
-- 🧠 Tensorflow, Scikit-Learn, Tranformers
+- 🧠 Tensorflow, Scikit-Learn, PyTorch
 
 ## Sobre Mim:
 
-Realmente respiro computação e a área que você me perguntar eu provavelmente já experimentei (se não, pode ter certeza que vou). Me interesso principalmente por ciência de dados e inteligência artificial, me aventurando também pelo desenvolvimento web e mobile.
+Realmente respiro computação e a área que você me perguntar eu provavelmente já experimentei. Me interesso principalmente por ciência de dados e inteligência artificial que são minhas áreas de trabalho, mas estou sempre fazendo projetos que envolvam techs diversas.
 
 ![Matias GitHub stats](https://github-readme-stats.vercel.app/api?username=ummatias&show_icons=true&bg_color=0000&text_color=AAA&hide_border=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ummatias&theme=neon_blurange&hide_border=true&background=DD272700&stroke=296ECA&ring=296ECA&fire=296ECA&sideNums=AAAAAA&dates=296ECA&currStreakNum=AAAAAA&currStreakLabel=AAAAAA&border=296ECA&sideLabels=AAAAAA)](https://git.io/streak-stats)
