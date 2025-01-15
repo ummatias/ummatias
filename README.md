@@ -28,7 +28,6 @@
 Realmente respiro computação e a área que você me perguntar eu provavelmente já experimentei. Me interesso principalmente por ciência de dados e inteligência artificial que são minhas áreas de trabalho, mas estou sempre fazendo projetos que envolvam techs diversas.
 
 ![Matias GitHub stats](https://github-readme-stats.vercel.app/api?username=ummatias&show_icons=true&bg_color=0000&text_color=AAA&hide_border=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ummatias&theme=neon_blurange&hide_border=true&background=DD272700&stroke=296ECA&ring=296ECA&fire=296ECA&sideNums=AAAAAA&dates=296ECA&currStreakNum=AAAAAA&currStreakLabel=AAAAAA&border=296ECA&sideLabels=AAAAAA)](https://git.io/streak-stats)
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ummatias&layout=compact&bg_color=0000&text_color=AAA&hide_border=true&count_private=true)
 
 <h1 align="center">MAY THE FORCE BE WITH YOU 🙏</h1> 
